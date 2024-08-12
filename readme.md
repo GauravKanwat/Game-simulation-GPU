@@ -1,4 +1,4 @@
-# Game Simulation with GPU Acceleration
+# Parallel Game Simulation using GPU
 
 This project contains a game simulation logic that utilizes GPU acceleration for parallel operations. The core logic is implemented in the `CS23M024.cu` file using CUDA.
 
