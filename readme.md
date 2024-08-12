@@ -1,10 +1,10 @@
 # Game Simulation with GPU Acceleration
 
-This project contains a game simulation logic that utilizes GPU acceleration for improved performance. The core logic is implemented in the `CS23M024.cu` file using CUDA.
+This project contains a game simulation logic that utilizes GPU acceleration for parallel operations. The core logic is implemented in the `CS23M024.cu` file using CUDA.
 
 ## Description
 
-The game simulation leverages the power of GPU to handle complex computations efficiently. This results in faster processing times and smoother gameplay experience. The simulation logic is written in CUDA C and is designed to run on NVIDIA GPUs.
+The game simulation leverages GPU to handle computations parallely. The simulation logic is written in CUDA C and is designed to run on NVIDIA GPUs. The file utilizes parallel processing to perform tank operations, such as shooting different tanks and vanishing tanks, simultaneously. Additionally, the tanks are represented as coordinates in a graph.
 
 ## Installation
 
