@@ -14,8 +14,8 @@ To set up the environment for running this simulation, follow these steps:
 
 2. **Clone the Repository**: Clone this repository to your local machine.
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/GauravKanwat/Game-simulation-GPU
+    cd Game-simulation-GPU
     ```
 
 3. **Compile the CUDA Code**: Use the `nvcc` compiler to compile the CUDA code.
